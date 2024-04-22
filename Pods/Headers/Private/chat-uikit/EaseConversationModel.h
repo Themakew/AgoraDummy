@@ -1,0 +1,1 @@
+../../../chat-uikit/chat-uikit/Classes/Conversations/Models/EaseConversationModel.h
