@@ -1,1 +1,0 @@
-../../../chat-uikit/chat-uikit/Classes/Chat/ChatComponents/ThreadChatController/EaseThreadCreateViewController.h

@@ -1,1 +1,0 @@
-../../../chat-uikit/chat-uikit/Classes/Chat/EaseChatViewControllerDelegate.h

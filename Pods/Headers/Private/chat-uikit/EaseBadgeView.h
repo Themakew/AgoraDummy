@@ -1,1 +1,0 @@
-../../../chat-uikit/chat-uikit/Classes/Conversations/Views/EaseBadgeView.h

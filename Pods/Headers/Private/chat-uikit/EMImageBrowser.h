@@ -1,1 +1,0 @@
-../../../chat-uikit/chat-uikit/Classes/Chat/ChatExtComponents/ChatMessageComponents/EMImageBrowser.h

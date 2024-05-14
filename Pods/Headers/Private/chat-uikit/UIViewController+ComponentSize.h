@@ -1,1 +1,0 @@
-../../../chat-uikit/chat-uikit/Categories/UIViewController+ComponentSize.h
