@@ -1,0 +1,1 @@
+../../../chat-uikit/chat-uikit/Classes/Chat/MessageCell/BubbleView/EMMsgFileBubbleView.h
